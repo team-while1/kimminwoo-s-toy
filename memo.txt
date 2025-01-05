@@ -2,3 +2,6 @@ npm create vite@latest
 cd react-app
 npm i
 npm run dev
+
+1. 같은 단어 여러 개 수정: 해당 단어들 클릭 -> command+D 연타
+2. wrap 할 문장 드래그 -> shift+command+P -> Emmet: wrap ~.
